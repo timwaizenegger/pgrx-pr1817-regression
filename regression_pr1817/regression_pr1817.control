@@ -1,0 +1,6 @@
+comment = 'regression_pr1817:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/regression_pr1817'
+relocatable = false
+superuser = true
+trusted = false

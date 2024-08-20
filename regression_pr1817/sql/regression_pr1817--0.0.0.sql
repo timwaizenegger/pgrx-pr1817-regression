@@ -1,0 +1,3 @@
+-- this file would contain static SQL that I want to import into the extension
+-- via `extension_sql_file!("../sql/regression_pr1817--0.0.0.sql", name="testing");`
+-- the file is left empty for this regression tests. It's presence alone is enough to cause the overwrite to occur
